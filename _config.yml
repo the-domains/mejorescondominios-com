@@ -1,0 +1,28 @@
+name: MejoresCondominios.com
+favicon: null
+layout_spectrum: 0.01803423184901476
+typography_spectrum: 0.0132335196249187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5305165371391922
+  lightness: 0.960450021084398
+  saturation: 0.04535555583424866
+  rhythmicContrast: 0.908891623141244
+purpose: []
